@@ -1,19 +1,8 @@
 ****************************
 Created by: Jill Budden
-Client: Westinghouse
+Client: W
 Test: LII
-Date: November/December 2007
 *****************************
-
-************************************************Merging files************************************************************************
-
-
-Match files file='W:\WORKING\A&T_TECH\CLIENTS\Westinghouse\Predictor\final_AMS_Master_TestPortal_1650_merged.sav'
-	/file='W:\WORKING\A&T_TECH\CLIENTS\Westinghouse\Criteria\wec_crit.sav'
-            /IN matched
-	/BY cde_applicant_id.
-EXECUTE.
-
 
 *****************************************************************************************Demographics and PQ*****************************************************************************************.
 
